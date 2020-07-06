@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Domain", "1-Domain", "{35FC419A-F174-400F-A627-B9E80B778FA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Infra", "2-Infra", "{01A88997-EE56-4F60-904E-4BD66BCB1FF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C56DBD5E-A484-45D8-986A-13B4CE49820E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{AF4FDE31-DC66-4895-9392-750DA5B03155}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Service", "0-Service", "{00C85C10-78D7-42A1-8413-340AC1BD2BF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacNivelamento.Application", "SenacNivelamento.Application\SenacNivelamento.Application.csproj", "{66730427-1FEA-441E-8A6E-08E140485835}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacNivelamento.Domain", "SenacNivelamento.Domain\SenacNivelamento.Domain.csproj", "{1626AF13-3DE0-45F6-81BC-443FF94DED7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacNivelamento.Api", "SenacNivelamento.Api\SenacNivelamento.Api.csproj", "{263B452F-2452-4F65-864E-131BA4DF828F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacNivelamento.Infra.Writing.Data", "SenacNivelamento.Infra.Writing.Data\SenacNivelamento.Infra.Writing.Data.csproj", "{155A4048-239D-47CD-BD8B-CD96D05185C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacNivelamento.Domain.Core", "SenacNivelamento.Domain.Core\SenacNivelamento.Domain.Core.csproj", "{57F04D47-D20F-4444-BD02-A6AE3A6A61D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacNivelamento.Aplication.Test", "SenacNivelamento.Aplication.Test\SenacNivelamento.Aplication.Test.csproj", "{F37A105D-10F3-4A15-87D0-0D7C76123316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenacNivelamento.Api.Integration.Test", "SenacNivelamento.Api.Integration.Test\SenacNivelamento.Api.Integration.Test.csproj", "{805F7F21-9E38-48D9-9757-2B1EA7536A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66730427-1FEA-441E-8A6E-08E140485835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66730427-1FEA-441E-8A6E-08E140485835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66730427-1FEA-441E-8A6E-08E140485835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66730427-1FEA-441E-8A6E-08E140485835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1626AF13-3DE0-45F6-81BC-443FF94DED7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1626AF13-3DE0-45F6-81BC-443FF94DED7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1626AF13-3DE0-45F6-81BC-443FF94DED7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1626AF13-3DE0-45F6-81BC-443FF94DED7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263B452F-2452-4F65-864E-131BA4DF828F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263B452F-2452-4F65-864E-131BA4DF828F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263B452F-2452-4F65-864E-131BA4DF828F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263B452F-2452-4F65-864E-131BA4DF828F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155A4048-239D-47CD-BD8B-CD96D05185C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155A4048-239D-47CD-BD8B-CD96D05185C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155A4048-239D-47CD-BD8B-CD96D05185C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155A4048-239D-47CD-BD8B-CD96D05185C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F04D47-D20F-4444-BD02-A6AE3A6A61D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F04D47-D20F-4444-BD02-A6AE3A6A61D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F04D47-D20F-4444-BD02-A6AE3A6A61D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F04D47-D20F-4444-BD02-A6AE3A6A61D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37A105D-10F3-4A15-87D0-0D7C76123316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37A105D-10F3-4A15-87D0-0D7C76123316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37A105D-10F3-4A15-87D0-0D7C76123316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37A105D-10F3-4A15-87D0-0D7C76123316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805F7F21-9E38-48D9-9757-2B1EA7536A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805F7F21-9E38-48D9-9757-2B1EA7536A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805F7F21-9E38-48D9-9757-2B1EA7536A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805F7F21-9E38-48D9-9757-2B1EA7536A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35FC419A-F174-400F-A627-B9E80B778FA1} = {C56DBD5E-A484-45D8-986A-13B4CE49820E}
+		{01A88997-EE56-4F60-904E-4BD66BCB1FF0} = {C56DBD5E-A484-45D8-986A-13B4CE49820E}
+		{00C85C10-78D7-42A1-8413-340AC1BD2BF3} = {C56DBD5E-A484-45D8-986A-13B4CE49820E}
+		{66730427-1FEA-441E-8A6E-08E140485835} = {35FC419A-F174-400F-A627-B9E80B778FA1}
+		{1626AF13-3DE0-45F6-81BC-443FF94DED7D} = {35FC419A-F174-400F-A627-B9E80B778FA1}
+		{263B452F-2452-4F65-864E-131BA4DF828F} = {00C85C10-78D7-42A1-8413-340AC1BD2BF3}
+		{155A4048-239D-47CD-BD8B-CD96D05185C0} = {01A88997-EE56-4F60-904E-4BD66BCB1FF0}
+		{57F04D47-D20F-4444-BD02-A6AE3A6A61D4} = {35FC419A-F174-400F-A627-B9E80B778FA1}
+		{F37A105D-10F3-4A15-87D0-0D7C76123316} = {AF4FDE31-DC66-4895-9392-750DA5B03155}
+		{805F7F21-9E38-48D9-9757-2B1EA7536A04} = {AF4FDE31-DC66-4895-9392-750DA5B03155}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA42383D-A0FB-442F-834C-E5FC73A8A6F5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SenacNivelamento.Application</id>
+    <version>1.0.0</version>
+    <authors>SenacNivelamento.Application</authors>
+    <owners>SenacNivelamento.Application</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="SenacNivelamento.Domain.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="SenacNivelamento.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="8.6.2" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="3.1.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Application\bin\Debug\netcoreapp3.1\SenacNivelamento.Application.dll" target="lib\netcoreapp3.1\SenacNivelamento.Application.dll" />
+  </files>
+</package>

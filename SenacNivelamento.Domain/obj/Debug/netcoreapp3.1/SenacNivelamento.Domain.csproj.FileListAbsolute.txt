@@ -1,0 +1,12 @@
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\bin\Debug\netcoreapp3.1\SenacNivelamento.Domain.deps.json
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\bin\Debug\netcoreapp3.1\SenacNivelamento.Domain.dll
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\bin\Debug\netcoreapp3.1\SenacNivelamento.Domain.pdb
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\obj\Debug\netcoreapp3.1\SenacNivelamento.Domain.csproj.CoreCompileInputs.cache
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\obj\Debug\netcoreapp3.1\SenacNivelamento.Domain.AssemblyInfoInputs.cache
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\obj\Debug\netcoreapp3.1\SenacNivelamento.Domain.AssemblyInfo.cs
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\obj\Debug\netcoreapp3.1\SenacNivelamento.Domain.dll
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\obj\Debug\netcoreapp3.1\SenacNivelamento.Domain.pdb
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\obj\Debug\netcoreapp3.1\SenacNivelamento.Domain.csprojAssemblyReference.cache
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\bin\Debug\netcoreapp3.1\SenacNivelamento.Domain.Core.dll
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\bin\Debug\netcoreapp3.1\SenacNivelamento.Domain.Core.pdb
+C:\Users\killdary.santana\Documents\Documentação Projetos\Senac\SenacNivelamento\SenacNivelamento.Domain\obj\Debug\netcoreapp3.1\SenacNivelamento.Domain.csproj.CopyComplete
